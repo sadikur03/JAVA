@@ -1,0 +1,3 @@
+9927,ali,Male,arnob,0133,dhaka,20,10%
+11,sadikur,Male,ww,22,dhak,20,20%
+55,dsd,Male,arnob@gmail.com,017,dhaka,21,20%
